@@ -1,0 +1,28 @@
+{
+  "name": "OverlappingMarkerSpiderfier",
+  "version": "0.3",
+  "main": "dist/oms.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pesla/OverlappingMarkerSpiderfier.git"
+  },
+  "homepage": "https://github.com/pesla/OverlappingMarkerSpiderfier",
+  "authors": [
+    "George MacKerron (https://github.com/jawj)"
+  ],
+  "description": "Deals with overlapping markers in Google Maps JS API v3, Google Earth-style http://blog.mackerron.com",
+  "keywords": [
+    "google maps",
+    "markers",
+    "overlapping markers",
+    "marker",
+    "overlapping",
+    "marker cluster",
+    "cluster",
+    "clustering"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ]
+}
