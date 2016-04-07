@@ -1,7 +1,7 @@
 {
   "name": "OverlappingMarkerSpiderfierInitilizer",
   "version": "0.1",
-  "main": "lib/oms.min.js",
+  "main": "lib/oms.js",
   "repository": {
     "type": "git",
     "url": "git@github.com:grmmph/OverlappingMarkerSpiderfier.git"
