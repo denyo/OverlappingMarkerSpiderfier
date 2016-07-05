@@ -1,6 +1,6 @@
 {
   "name": "OverlappingMarkerSpiderfierInitilizer",
-  "version": "0.1",
+  "version": "0.2",
   "main": "lib/oms.js",
   "repository": {
     "type": "git",
@@ -9,7 +9,8 @@
   "homepage": "https://github.com/grmmph/OverlappingMarkerSpiderfier",
   "authors": [
     "George MacKerron (https://github.com/jawj)",
-    "Yonatan Wolowelsky"
+    "Yonatan Wolowelsky",
+    "Bernd Hacker"
   ],
   "description": "Deals with overlapping markers in Google Maps JS API v3, Google Earth-style http://blog.mackerron.com",
   "keywords": [
